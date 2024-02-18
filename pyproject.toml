@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rochdi"
+version = "0.0.1"
+authors = [
+  { name="Rochdi", email="1614rochdi@gmail.com" },
+]
+description = "This is my first package and my last because it will contain every \"package\" that i do"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://example.com"
+Issues = "https://example.com"
