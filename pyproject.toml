@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://example.com"
-Issues = "https://example.com"
+Homepage = "https://github.com/TimeToCrack/Rochdi"
+Issues = "https://github.com/TimeToCrack/Rochdi/issues"
